@@ -1,0 +1,19 @@
+{
+  "name": "strider-ci-quick-test",
+  "version": "1.0.0",
+  "description": "A project to test Strider Continuous Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha ./test/calc.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ettysekhon/strider-ci-quick-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ettysekhon/strider-ci-quick-test/issues"
+  },
+  "homepage": "https://github.com/ettysekhon/strider-ci-quick-test"
+}
